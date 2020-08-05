@@ -8,4 +8,4 @@ master
 dev
 >>>>>>> dev
 
-mater1
+dev
